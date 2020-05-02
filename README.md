@@ -1,4 +1,4 @@
 # pythonSocket
-usage 
-python3 server.py
-python3 client.py
+<b> usage </b><br>
+python3 server.py<br>
+python3 client.py<br>
